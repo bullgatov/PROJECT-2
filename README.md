@@ -1,4 +1,5 @@
 <center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width:400px;">
+
 # PROJECT-2. Анализ вакансий из сайта HeadHunter
 
 ## **Постановка задачи**:
@@ -13,13 +14,7 @@
 
 ## **Результаты:**
 
-* **Проведен анализ и очистка данных для обучения модели прогнозированию желаемой зарплаты соискателей**
-
-
-## **Выводы:**
-* **Получен практический опыт по работе с реальными данными.**
-
-
+* **Проведен анализ данных для обучения модели, которая будет рекомендовать вакансии клиентам агентства, претендующим на позицию Data Scientist**
 
 ## **Использованные инструменты и библиотеки**
 * **pandas** 
@@ -46,6 +41,4 @@
 ![Структура данных](/data/asset-v1_SkillFactory%2BDST-3.0%2B28FEB2021%2Btype%40asset%2Bblock%40SQL_pj2_2_6.png)
 
 ## **Ссылки на данные**
-* **[Ссылка для скачивания ноутбука](https://cloud.mail.ru/public/39EA/nhRKYmwRq)**
-* **[Данные резюме соискателей](https://cloud.mail.ru/public/hL3w/ao4LeyCBm)**
-* **[Данные курса валют](https://cloud.mail.ru/public/oZQc/CmGt7HnuK)**
+* **[Ссылка для скачивания ноутбука](https://cloud.mail.ru/public/WDuX/ebxLoPd26)**
